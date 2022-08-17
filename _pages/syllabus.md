@@ -56,7 +56,6 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 | 11/4 | Conferences, Associations, and Journals | :book: Chapter 10 | :book: Chapter 10 <br/> [:date:](#empirical-paper-concept-sheet) |
 | 11/10 | :handbag: | | |
 | 11/18 | Reading research | :book: Chapter 4 | :book: Chapter 4 |
-| 11/24 | :handbag: | | |
 
 ## Year 1 Assignments
 ### Plagiarism exercise 
