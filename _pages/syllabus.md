@@ -6,11 +6,12 @@ toc: true
 
 # Doctoral Professional Development Seminar
 ## RPAD 88X
-:man_teacher:: Stephen Holt, Ph.D.
-:calendar:: 11:40 AM to 12:35 PM (8/26, 9/9, 9/23, 10/7, 10/14, 11/4, 11/18) in Husted 012
-:email:: sbholt@albany.edu
-:school:: Tuesdays and Thursdays from 3:00 pm to 5:00 pm or by appointment; in-person in Milne 324 or online in GatherTown.
-:phone:: 518-442-3309
+:man_teacher:: Stephen Holt, Ph.D. <br/>
+:calendar:: 11:40 AM to 12:35 PM (8/26, 9/9, 9/23, 10/7, 10/14, 11/4, 11/18) <br/>
+:round_pushpin:: Husted 012 <br/>
+:email:: sbholt@albany.edu <br/>
+:school:: Tuesdays and Thursdays from 3:00 pm to 5:00 pm or by appointment; in-person in Milne 324 or online in GatherTown. <br/>
+:phone:: 518-442-3309 <br/>
 
 ## Course Description
 The RPAD 881-884 seminar series is a four-semester sequence for first- and second-year PhD students in Public Administration and Policy that introduces them to doctoral research and the academic profession. PAD 881/883 are offered in the fall, and PAD 882/884 are offered in the
@@ -51,11 +52,11 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 | 10/7 | [:zap:](#public-policy-faculty) | Giving a Presentation | Giving a Presentation <br/> [:date:](#literature-review-concept-sheet) |
 | 10/13 | :handbag: | | |
 | 10/14 | [:zap:](#qualitative-and-non-profit-research) | [:date:](#citi-human-subjects-research-training) | |
-| 10/27 | :busts_in_silhouette: | | |
+| 10/27 | :handbag: | | |
 | 11/4 | Conferences, Associations, and Journals | :book: Chapter 10 | :book: Chapter 10 <br/> [:date:](#empirical-paper-concept-sheet) |
-| 11/10 | :busts_in_silhouette: | | |
+| 11/10 | :handbag: | | |
 | 11/18 | Reading research | :book: Chapter 4 | :book: Chapter 4 |
-| 11/24 | :busts_in_silhouette: | | |
+| 11/24 | :handbag: | | |
 
 ## Year 1 Assignments
 ### Plagiarism exercise 
