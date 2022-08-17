@@ -26,6 +26,12 @@ The RPAD 88X series introduces public affairs students to the principles, practi
 **Note** I typically hesitate to require a text for a class like this. However, I think this book will be handy for you at multiple stages in your academic career and is relatively low cost ($15-$20), and so purchasing it is probably wise. If you do not want to purchase the book, you can simply use the university or city libraries to check it out and follow along with the reading schedule.
 {: .notice--info}
 
+## Required Software
+Zotero - Zotero is a free platform for organizing and sharing academic work and it is how readings will be distributed to the class. You can download the app [here](https://www.zotero.org/download/). I suggest also downloading the browser connector for whatever browser you use - it helps save a dramatic amount of time when conducting a literature review. During the first week of classes you will receive an invitation to join the class Zotero library. If you do not receive one, please email the professor.
+
+There are a variety of citation organizer software options out there for researchers to use and, having experimented with most of them, Zotero is by far the best. It is *free*; Open Source; designed and developed by researchers; and governed as a non-profit to protect the integrity and accessibility of the software.
+{: .notice--info}
+
 ### Assignments and Grading
 This course is graded as satisfactory/unsatisfactory. Over the course of the semester, first and second year students will both have different milestones to reach to maintain on-time progress through the doctoral program. The assignments and detailed schedule is below. I will be posting additional readings, slides, and other resources to the site throughout the semester. Assignments will be submitted via Blackboard and, when instructed, to either advisors, committees, or the Doctoral Program Director.
 
