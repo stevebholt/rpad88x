@@ -48,7 +48,7 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 | 9/1 | :handbag: | | |
 | 9/9 | Avoiding Plagiarism  | :page_facing_up: iThenticate <br/> :page_facing_up: Roig <br/> [:date:](#plagiarism-exercise) | No class - Plan for [Milestones](#second-year-milestones) |
 | 9/15 | :handbag: | | |
-| 9/23 | [:zap:](#public-management-faculty) | Picking an Advisor | Prepping for Research :book: Chapter 6 |
+| 9/23 | [:zap:](#public-management-faculty) | Picking an Advisor | Prepping for Research <br/> :book: Chapter 6 |
 | 9/29 | :handbag: | | |
 | 10/7 | [:zap:](#public-policy-faculty) | Giving a Presentation | Giving a Presentation <br/> [:date:](#literature-review-concept-sheet) |
 | 10/13 | :handbag: | | |
