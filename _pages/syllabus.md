@@ -32,6 +32,7 @@ This course is graded as satisfactory/unsatisfactory. Over the course of the sem
 In addition to mandatory attendance of class, Rockefeller Brown Bag attendance is also mandatory as part of 88X. The RBB schedule is also included in the course schedule.
 
 ## Overview of Schedule
+
 | Symbol | Meaning |
 |:-: | :--------------------------- |
 | :man_teacher: | Lecture |
