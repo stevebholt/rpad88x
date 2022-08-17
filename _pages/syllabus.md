@@ -80,11 +80,11 @@ You'll be introduced to Dr. Lucy Sorensen, Dr. Melissa Arnold Lyon, and Dr. Ashl
 You'll be introduced to Dr. Susan Appe, Dr. Mitch Abolafia, and Dr. Jennifer Dodge. Together, they make up the core faculty who do qualitative research. Dr. Appe and Dr. Dodge also represent our non-profit faculty. They will introduce themselves, talk a bit about their research and their expectations of students, and discuss their research.
 
 ## Milestones
-### First Year Milestones in the Fall
+### First Year Milestones
 1. Plagiarism Workshop
 2. Citi Human Subjects training
 
-### Second Year Milestones in the Fall
+### Second Year Milestones
 1. Plan your literature review and presentation timeline
 2. Write and submit literature review and empirical paper concept sheets to committee chair
 
