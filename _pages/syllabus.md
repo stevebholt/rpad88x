@@ -68,7 +68,7 @@ In addition to mandatory attendance of class, Rockefeller Brown Bag attendance i
 
 ## Year 1 Assignments
 ### Plagiarism exercise
-In addition to the readings listed in the class schedule and posted in the class Zotero library, students should read the [Avoiding Plagiarism](https://owl.purdue.edu/owl/avoiding_plagiarism/index.html) sequence (go in order of all the materials in the "Avoiding Plagiarism" tab on the site at the link).  After reading the materials, complete the [Plagiarism Exercise](https://owl.purdue.edu/owl/avoiding_plagiarism/plagiarism_exercise.html), submit it using the Blackboard link, and bring your answers to class for discussion.
+In addition to the readings listed in the class schedule and posted in the class Zotero library, students should read the [Avoiding Plagiarism](https://owl.purdue.edu/owl/avoiding_plagiarism/index.html) sequence (go in order of all the materials in the "Avoiding Plagiarism" tab on the site at the link).  After reading the materials, complete the [Plagiarism Exercise](https://owl.purdue.edu/owl/avoiding_plagiarism/plagiarism_exercise.html) by writing your answers (numbered to match the question numbers) in a word document, submit it using the Blackboard link, and bring your answers to class for discussion.
 
 ### Citi Human Subjects Research Training
 Complete [the Citi Human Subjects Research course](https://www.albany.edu/orrc/irb-training.php) and submit your certificate via the link in Blackboard. Follow the instructions in the link to create a login and complete the course.
